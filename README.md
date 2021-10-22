@@ -32,3 +32,8 @@ To create the table used, run the `runonce.py` file. Don't run it twice or you w
 
 Then run the `main.py` file to use the library.
  
+## Features
+You can choose a operation by typing :
+R to rent a book (next you have to precise the name of book and if you wrote a mistake, it suggests you books)
+T to return a book
+S to search a book
